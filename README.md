@@ -105,47 +105,7 @@ more:[知乎-计算机视觉顶尖期刊和会议有哪些？](https://www.zhihu
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* [盘点52个全球人工智能和机器学习重要会议](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650734172&idx=1&sn=048724545897fb8d70fd5f0efea54b09&chksm=871b3a22b06cb334bb01ff5acbdcc8da76cfed55c0e3778d1ba8c177cb5c599c421582b59879&scene=0&pass_ticket=GvgnQBNA5rAsSIXeoQ8w5M3aDOFb90K868Pp5Ad89Nt0roUpqJYJjPe3MNeSO287#rd)
 
 
 
