@@ -28,10 +28,31 @@
 原文：https://blog.csdn.net/barry_j/article/details/79733262 
 
 以下是不完整的列表，但基本覆盖。
-* 人工智能：[IJCAI](https://www.ijcai.org/), [AAAI](https://aaai.org/Conferences/conferences.php); （期刊AI）
-* 机器学习顶级会议：[NIPS](https://nips.cc/), [ICML](https://icml.cc/), [UAI](http://www.auai.org/), [AISTATS](https://www.aistats.org/);  （期刊：[JMLR](), [ML](), [Trends]() in ML, [IEEE]() T-NN）
-* 计算机视觉和图像识别(CV三大会议)：**[ICCV](), [CVPR](), [ECCV]()**;  （期刊：[IEEE]() T-PAMI, [IJCV](), [IEEE]() T-IP）
+* 人工智能：
+
+    * [IJCAI](https://www.ijcai.org/),
+    * [AAAI](https://aaai.org/Conferences/conferences.php); 
+    * （期刊AI）
+
+* 机器学习顶级会议：
+
+  * [NIPS](https://nips.cc/), 
+  * [ICML](https://icml.cc/), 
+  * [UAI](http://www.auai.org/), 
+  * [AISTATS](https://www.aistats.org/);  
+ （期刊：[JMLR](), [ML](), [Trends]() in ML, [IEEE]() T-NN）
+
+* 计算机视觉和图像识别(CV三大会议)：
+
+CVPR（每年），ICCV（奇数年）和ECCV（偶数年）
+
+  * [ICCV](http://openaccess.thecvf.com/menu.py), 
+  * [CVPR](http://openaccess.thecvf.com/menu.py), 
+  * [ECCV](https://www.thecvf.com/); 
+    （期刊：[IEEE T-PAMI](), [IJCV](), [IEEE T-IP]()）
 另外相关的还有[SIGGRAPH（计算机图形）](), [SIGKDD（数据挖掘）](), [ACL（计算机语言）](), [SIGIR（信息检索）等。]()
+
+more:[知乎-计算机视觉顶尖期刊和会议有哪些？](https://www.zhihu.com/question/37687006/answer/104582592)
 
 
 特别是，**如果做机器学习，必须地，把近4年的NIPS, ICML翻几遍；如果做计算机视觉，要把近4年的ICCV, CVPR, NIPS, ICML翻几遍。**
