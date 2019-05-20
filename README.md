@@ -10,7 +10,13 @@
 
 
 
+-----------
 
+全球三大顶级杂志-《cell》、《nature》、《science》
+
+[全球三大顶级杂志-《细胞》、《自然》、《科学》](http://blog.sina.com.cn/s/blog_a057802b0102vigu.html)
+
+## AI 相关会议期刊总结
 
 单单看ML文章质量的话，我觉得是这样的排名
 
@@ -71,7 +77,7 @@ more:[知乎-计算机视觉顶尖期刊和会议有哪些？](https://www.zhihu
 * CV方面：http://www.cvpapers.com/index.html
 * NIPS: http://books.nips.cc/
 * JMLR(期刊): http://jmlr.csail.mit.edu/papers/
-* COLT和ICML(每年度的官网): ...
+* COLT和ICML(每年度的官网): http://www.cs.mcgill.ca/~colt2009/proceedings.html
 
 
 
