@@ -15,8 +15,8 @@
 单单看ML文章质量的话，我觉得是这样的排名
 
 期刊：
-* 最好的是JMLR
-* MLJ和PAMI次之
+* 最好的是[JMLR](http://www.jmlr.org/)
+* MLJ和[PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)次之
 * TNN、neural computation、PR再次一些
 * PRL、neuralcomputing等等基本纯水。
 
@@ -40,7 +40,7 @@
   * [ICML](https://icml.cc/), 
   * [UAI](http://www.auai.org/), 
   * [AISTATS](https://www.aistats.org/);  
- （期刊：[JMLR](), [ML](), [Trends]() in ML, [IEEE]() T-NN）
+ （期刊：[JMLR](http://www.jmlr.org/), [ML](https://www.datalearner.com/journal/ML), [Trends in ML](), [IEEE T-NN]()）
 
 * 计算机视觉和图像识别(CV三大会议)：
 
@@ -49,8 +49,8 @@ CVPR（每年），ICCV（奇数年）和ECCV（偶数年）
   * [ICCV](http://openaccess.thecvf.com/menu.py), 
   * [CVPR](http://openaccess.thecvf.com/menu.py), 
   * [ECCV](https://www.thecvf.com/); 
-    （期刊：[IEEE T-PAMI](), [IJCV](), [IEEE T-IP]()）
-另外相关的还有[SIGGRAPH（计算机图形）](), [SIGKDD（数据挖掘）](), [ACL（计算机语言）](), [SIGIR（信息检索）等。]()
+    （期刊：[IEEE T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), [IJCV](http://www.ijcv.org/), [IEEE T-IP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)）
+另外相关的还有[SIGGRAPH（计算机图形）](https://www.siggraph.org/), [SIGKDD（数据挖掘）](http://www.sigkdd.org/), [ACL（计算机语言）](http://www.acl2019.org/EN/index.xhtml), [SIGIR（信息检索）](https://sigir.org/)等。
 
 more:[知乎-计算机视觉顶尖期刊和会议有哪些？](https://www.zhihu.com/question/37687006/answer/104582592)
 
@@ -81,10 +81,8 @@ more:[知乎-计算机视觉顶尖期刊和会议有哪些？](https://www.zhihu
 
 ### Reference
 
-
-
+*  [ 多读顶级会议论文（CS方向） - 知乎](https://zhuanlan.zhihu.com/p/37353099)
  * [计算机视觉三大国际会议ICCV、ECCV、CVPR - cily_CSTO的专栏 ...](https://blog.csdn.net/cily_CSTO/article/details/50132711)
-
 * [机器学习顶级会议及论文](https://blog.csdn.net/barry_j/article/details/79733262)
 * [计算机方面顶级会议](https://blog.csdn.net/xiaoshengforever/article/details/12282643)
 * [机器学习领取顶级会议及论文及牛人主页](https://blog.csdn.net/Barry_J/article/details/79733262)
