@@ -15,7 +15,7 @@
 
 -----------
 
-全球三大顶级杂志-
+全球三大顶级杂志CNS
 * [《cell》](https://www.cell.com/)
 * [《nature》](https://www.nature.com/)
 * [《science》](https://www.sciencemag.org/)
