@@ -64,9 +64,11 @@ CVPR（每年），ICCV（奇数年）和ECCV（偶数年）
     （期刊：[IEEE T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), [IJCV](http://www.ijcv.org/), [IEEE T-IP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)）
 另外相关的还有[SIGGRAPH（计算机图形）](https://www.siggraph.org/), [SIGKDD（数据挖掘）](http://www.sigkdd.org/), [ACL（计算机语言）](http://www.acl2019.org/EN/index.xhtml), [SIGIR（信息检索）](https://sigir.org/)等。
 
-more:[知乎-计算机视觉顶尖期刊和会议有哪些？](https://www.zhihu.com/question/37687006/answer/104582592)
+More:[知乎-计算机视觉顶尖期刊和会议有哪些？](https://www.zhihu.com/question/37687006/answer/104582592)
 
 
+特别是，**如果做机器学习，必须地，把近4年的NIPS, ICML翻几遍；如果做计算机视觉，要把近4年的ICCV, CVPR, NIPS, ICML翻几遍。**
+原文：https://blog.csdn.net/xiaoshengforever/article/details/12282643
 
 
 
@@ -77,9 +79,6 @@ more:[知乎-计算机视觉顶尖期刊和会议有哪些？](https://www.zhihu
 
 
 
-
-特别是，**如果做机器学习，必须地，把近4年的NIPS, ICML翻几遍；如果做计算机视觉，要把近4年的ICCV, CVPR, NIPS, ICML翻几遍。**
-原文：https://blog.csdn.net/xiaoshengforever/article/details/12282643
 
 ### ABC类会议
 
