@@ -77,7 +77,7 @@ More:[知乎-计算机视觉顶尖期刊和会议有哪些？](https://www.zhihu
 * [常用牛人主页链接（计算机视觉、模式识别、机器学习相关方向）](http://www.cnblogs.com/kshenf/archive/2012/02/07/2342034.html)
 
 
-
+* [台大-李宏毅老师](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
 
 
 ### ABC类会议
@@ -128,6 +128,8 @@ More:[知乎-计算机视觉顶尖期刊和会议有哪些？](https://www.zhihu
 
 
 
+### Others
+* https://www.sciencedirect.com/
 
 ### License
 
