@@ -12,6 +12,9 @@
 
  计算机最新国际会议和期刊列表汇总: http://www.myhuiban.com/?lang=zh_cn
 
+### 论文下载
+* http://www.99e.com.cn/
+
 
 -----------
 
